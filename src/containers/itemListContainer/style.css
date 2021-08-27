@@ -1,0 +1,21 @@
+main {
+	display: flex;
+	height: 50vh;
+	padding: 50px;
+	justify-content: center;
+	background-color: rgb(82, 80, 80);
+	border: 50px solid white;
+	align-items: center;
+}
+
+h1 {
+	font-size: 30px;
+	padding: 20px;
+	text-align: center;
+	width: 100%;
+}
+
+.ItemListContainer {
+	display: flex;
+	flex-direction: column;
+}
